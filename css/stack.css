@@ -3,8 +3,9 @@
 
 /*
     background-color: var(--highlight-bg);
-*/
     background-color: #a9a9a9;
+*/
+    background-color: #F8F8FF;
     border-radius: var(--br-md);
     color: var(--highlight-color);
     font-size: var(--fs-body1);
